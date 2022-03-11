@@ -26,7 +26,7 @@
 body {
   background: linear-gradient(#42047e, #07f49e);
   background-size: 300% 300%;
-  font-size: calc(26px + (26 - 12) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(22px + (22 - 12) * ((100vw - 300px) / (1600 - 300)));
 }
 
 #header a {
